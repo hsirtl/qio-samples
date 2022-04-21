@@ -1,7 +1,10 @@
 # Python temporary files
 .ipynb_checkpoints
 
-# Git ignore file for the Solid project
+# Git ignore file
+
+# Local settings files
+**/[Aa]ppsettings*.json
 
 # Build artifacts
 *.g.cs
